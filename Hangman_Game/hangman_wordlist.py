@@ -1,0 +1,1 @@
+word_list = ["green", "blue", "purple"]
